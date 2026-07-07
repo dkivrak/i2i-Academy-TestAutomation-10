@@ -27,6 +27,7 @@ The Selenium and REST Assured tests are implemented in a Java Maven project. The
 
 ## Project Structure
 
+```text
 i2i-Academy-TestAutomation-10/
 ├── pom.xml
 ├── nginx/
@@ -41,6 +42,7 @@ i2i-Academy-TestAutomation-10/
 └── testautomation/
 ├── SeleniumLoginTest.java
 └── ApiAutomationTest.java
+```
 
 ## Selenium UI Login Automation
 
