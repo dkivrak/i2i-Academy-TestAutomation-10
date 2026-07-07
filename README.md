@@ -1,4 +1,4 @@
-# i2i Academy Test Automation - 10
+# i2i Academy Test Automation 
 
 This project was developed for the i2i Academy Test Automation assignment. The main goal of the project is to gain practical experience with UI test automation, API automation, and performance testing by using Java, Selenium WebDriver, REST Assured, Nginx, and Apache JMeter.
 
@@ -27,7 +27,6 @@ The Selenium and REST Assured tests are implemented in a Java Maven project. The
 
 ## Project Structure
 
-```text
 i2i-Academy-TestAutomation-10/
 ├── pom.xml
 ├── nginx/
@@ -42,7 +41,6 @@ i2i-Academy-TestAutomation-10/
 └── testautomation/
 ├── SeleniumLoginTest.java
 └── ApiAutomationTest.java
-```
 
 ## Selenium UI Login Automation
 
