@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.mov
+*.mp4
